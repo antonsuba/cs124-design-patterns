@@ -1,2 +1,2 @@
-# cs124-design-patterns
+# CS 124 - Design Patterns
 Labs and projects for Design Patterns class
